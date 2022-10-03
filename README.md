@@ -6,3 +6,4 @@ The bugs are:
 1) zeros in decimal numbers don't appear unitl a non zero number button is bushed.
 2) formatting issues with larger decimals
 3) I don't like how the label border wraps to the text, I couldn't figure out how to make it fixed.
+4) The lack of a class structure needs to be improved and general code cleanup. Not necessarily a bug, but something that can be worked on. 
